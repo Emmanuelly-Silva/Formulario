@@ -18,6 +18,15 @@ body {
     align-items: center;
 }
 
+.link-github {
+    display: flex;
+}
+
+.link-github i {
+    color: white;
+    font-size: 40px;
+}
+
 .left-login {
     width: 50vw;
     height: 100vh;
